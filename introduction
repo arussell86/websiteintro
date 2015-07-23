@@ -1,0 +1,72 @@
+Enter <!DOCTYPE html>
+<html>
+    <head>
+      
+  <meta charset="utf-8">
+  <style>
+#webpic {width:120px;
+height:120px;
+float:left;
+margin-right:10px;
+margin-left:10px;
+padding:10px;
+
+}
+body{background-color: rgb(82,131,137);}
+p{text-indent:10px;}
+
+#header {
+    background-color:blue;
+     color:black;
+     text-align:left;
+    padding:5px;
+}
+#footer {
+    background-color:blue;
+     color:black;
+     text-align:left;
+    padding:5px;
+}
+
+
+  </style>
+<title> Anthony Russell: Website Resume</title>
+</head>
+<body>
+<div style="background-color:CornflowerBlue ; color:black; padding:20px;">
+
+<div id="header">
+<h1> Anthony Russell: Aspiring Web Developer</h1>
+</div>
+<p>
+<img id="webpic" src="Webpage picture.jpg" alt="picture of Anthony" style="border:2px solid black"> 
+</p>
+<p>Hello my name is Anthony Russell. Those that are currently looking at this page are seeing my first website built from scratch. I started taking an interest in web design back in 2012.
+I was in graduate school during this time and working full-time, so I did not have the time to dedicate to it. It wouldn't until 2015 that I started to teach myself everything I could about programming basics. This eventually led me
+to web design. This occurred after years of not being able to get into my career field with the three degrees and a minor I had acquired previously. 
+These degrees were in<strong> Paralegal Studies, Criminal Justice, Public Administration, and Communications minor.</strong> My work experience includes medical and law offices, labs, contract assignments through temporary agencies, and retail stores. I decided that I had enough and sought a way break the cycle of moving from job to job.
+ I began researching several different sites to teach myself the basics of web design until I stumbled across Khan Academy. I was able to get the core basics of web sign before moving onto more complex aspects. 
+In order to create a website I knew I had to be proficient in the three core areas of web design,which are:<strong> HTML, CSS, and Javascript.</strong> <br> <p>I began studying the lesson plans every weekend due to my work schedule. Eventually I decided to use
+my PTO time at work to take a week off in isolation to study whatever I could in order to make sure I had the core basics down.
+	Currently I'm using a tutor to help ensure I fully understand the underlying factors of web design. I have a good understanding of both HTML and CSS, while still learning the basics of Javascript. This will be the first of a few different websites that will be made as I learn more concepts. I currently have four different clients that I will be making websites for which include a law firm, hair product business, multi-cultural center and a local musician. These sites will also be used
+	in my professional profile to create work samples to put in my portfolio for recruiters. The end-goal is to be able to work in front-end development.<br> <p>
+	In order to create this page I used the basic html format for <strong>html5</strong> with a character set of <strong>utf-8.</strong> 
+	The header used a <strong>left</strong> text alignment with an adjusted background and text color. 
+	I used an image profile from my facebook page with an adjusted height of <strong>120px</strong>, floating to the <strong>left</strong> of the page with right and left margins of <strong>10px.</strong> 
+	Additionally the padding set used for the image was also <strong>10px.</strong> This combined with a border of <strong>2px</strong> allowed ideal spacing between the picture and the text. I also set a class for the text itself in order to allow and indentation of <strong>10px</strong> in the first sentence in each paragraph.
+	The next step was to adjust the body background color by creating a class for the body of text and text color.
+	This was also done for the header and the footnote at the bottom of the page in order to make the text stand out from the background.
+
+ </p>
+ </div>
+ 
+ 
+ 
+ 
+ 
+ <div id="footer">
+ a-russell-1@hotmail.com
+</div>
+
+ 
+ </body>file contents here
